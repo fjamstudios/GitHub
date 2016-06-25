@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+  <ModulePrefs title="Add This!" />
+  <Content type="html">
+    <![CDATA[
+      <meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+    <meta name="viewport" content="width=device-width">
+    <title>Amazing HTML5 Audio Player, powered by http://amazingaudioplayer.com</title>
+    
+    <!-- Insert to your webpage before the </head> -->
+    <script src="https://dl.dropboxusercontent.com/u/70265489/player/audioplayerengine/jquery.js"></script>
+    <script src="https://dl.dropboxusercontent.com/u/70265489/player/audioplayerengine/amazingaudioplayer.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://dl.dropboxusercontent.com/u/70265489/player/audioplayerengine/initaudioplayer-1.css">
+    <script src="https://dl.dropboxusercontent.com/u/70265489/player/audioplayerengine/initaudioplayer-1.js"></script>
+    <!-- End of head section HTML codes -->
+    
+</head>
+<body>
+<div style="margin:12px auto;">
+    
+    <!-- Insert to your webpage where you want to display the audio player -->
+    <div id="amazingaudioplayer-1" style="display:block;position:relative;width:300px;height:auto;margin:0px auto 0px;">
+        <ul class="amazingaudioplayer-audios" style="display:none;">
+            <li data-artist="Fred Jam" data-title="Make It Happen" data-album="" data-info="" data-image="" data-live="true">
+                <div class="amazingaudioplayer-source" data-src="https://docs.google.com/uc?export=download&id=0BwwFMv7UvHwSSkhXdHJNc1o4TDQ" data-type="audio/mpeg" />
+            </li>
+        </ul>
+    </div>
+    <!-- End of body section HTML codes -->
+
+</div>
+</body>
+    ]]>
+  </Content>
+</Module>
