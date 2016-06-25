@@ -22,7 +22,7 @@
     <div id="amazingaudioplayer-1" style="display:block;position:relative;width:300px;height:auto;margin:0px auto 0px;">
         <ul class="amazingaudioplayer-audios" style="display:none;">
             <li data-artist="Fred Jam" data-title="Make It Happen" data-album="" data-info="" data-image="" data-live="true">
-                <div class="amazingaudioplayer-source" data-src="https://drive.google.com/file/d/0B5eG7Rta1w3qX0FaYmt3bmh6aVU/view" data-type="audio/mpeg" />
+                <div class="amazingaudioplayer-source" data-src="https://docs.google.com/uc?export=download&id=0BwwFMv7UvHwSUG5hSDRWd2UyTlE" data-type="audio/mpeg" />
             </li>
         </ul>
     </div>
