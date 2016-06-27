@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+  <ModulePrefs title="Add This!" />
+  <Content type="html">
+    <![CDATA[
+       <meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+    <meta name="viewport" content="width=device-width">
+    <title>Amazing HTML5 Audio Player, powered by http://amazingaudioplayer.com</title>
+    
+    <!-- Insert to your webpage before the </head> -->
+    <script src="https://github.com/fjamstudios/GitHub/blob/master/multiplayer/audioplayerengine/jquery.js"></script>
+    <script src="https://github.com/fjamstudios/GitHub/blob/master/multiplayer/audioplayerengine/amazingaudioplayer.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://github.com/fjamstudios/GitHub/blob/master/multiplayer/audioplayerengine/initaudioplayer-1.css">
+    <script src="https://github.com/fjamstudios/GitHub/blob/master/multiplayer/audioplayerengine/initaudioplayer-1.js"></script>
+    <!-- End of head section HTML codes -->
+    
+</head>
+<body>
+<div style="margin:12px auto;">
+    
+    <!-- Insert to your webpage where you want to display the audio player -->
+    <div id="amazingaudioplayer-1" style="display:block;position:relative;width:300px;height:auto;margin:0px auto 0px;">
+        <ul class="amazingaudioplayer-audios" style="display:none;">
+            <li data-artist="" data-title="Don&apos;t Pretend" data-album="" data-info="" data-image="" data-duration="0">
+                <div class="amazingaudioplayer-source" data-src="https://docs.google.com/uc?export=download&id=0BwwFMv7UvHwSS05mMDVJMHZiZU0" data-type="audio/mpeg" />
+            </li>
+            <li data-artist="" data-title="Glimpses" data-album="" data-info="" data-image="" data-duration="0">
+                <div class="amazingaudioplayer-source" data-src="https://docs.google.com/uc?export=download&id=0BwwFMv7UvHwSV0lmZkR0R2l0SWs" data-type="audio/mpeg" />
+            </li>
+            <li data-artist="" data-title="Ney Years Eve On Mt. Olympus" data-album="" data-info="" data-image="" data-duration="0">
+                <div class="amazingaudioplayer-source" data-src="https://docs.google.com/uc?export=download&id=0BwwFMv7UvHwSSXF3dHlnTGIxcGM" data-type="audio/mpeg" />
+            </li>
+            <li data-artist="" data-title="Just To Bea" data-album="" data-info="" data-image="" data-duration="0">
+                <div class="amazingaudioplayer-source" data-src="https://docs.google.com/uc?export=download&id=0BwwFMv7UvHwSOXFVSTh3bGEwcGc" data-type="audio/mpeg" />
+            </li>
+            <li data-artist="" data-title="Pull Of Torch" data-album="" data-info="" data-image="" data-duration="0">
+                <div class="amazingaudioplayer-source" data-src="https://docs.google.com/uc?export=download&id=0BwwFMv7UvHwSUjFoYTNVaWF0UDg" data-type="audio/mpeg" />
+            </li>
+            <li data-artist="" data-title="Wanderlust" data-album="" data-info="" data-image="" data-duration="0">
+                <div class="amazingaudioplayer-source" data-src="https://docs.google.com/uc?export=download&id=0BwwFMv7UvHwSNkQzR3c4UkoxOFk" data-type="audio/mpeg" />
+            </li>
+            <li data-artist="" data-title="The Eyes Of A Child" data-album="" data-info="" data-image="" data-duration="0">
+                <div class="amazingaudioplayer-source" data-src="https://docs.google.com/uc?export=download&id=0BwwFMv7UvHwSdHZ5eXFsUzR3bE0" data-type="audio/mpeg" />
+            </li>
+            <li data-artist="" data-title="Swim In Your Hair" data-album="" data-info="" data-image="" data-duration="0">
+                <div class="amazingaudioplayer-source" data-src="https://docs.google.com/uc?export=download&id=0BwwFMv7UvHwSZGlVRHhtWnc0YlU" data-type="audio/mpeg" />
+            </li>
+            <li data-artist="" data-title="Fine Time Needed" data-album="" data-info="" data-image="" data-duration="0">
+                <div class="amazingaudioplayer-source" data-src="https://docs.google.com/uc?export=download&id=0BwwFMv7UvHwSRDJCR09heTR1aGc" data-type="audio/mpeg" />
+            </li>
+            <li data-artist="" data-title="If Only We Could" data-album="" data-info="" data-image="" data-duration="0">
+                <div class="amazingaudioplayer-source" data-src="https://docs.google.com/uc?export=download&id=0BwwFMv7UvHwScmdneDhabnBoZnM" data-type="audio/mpeg" />
+            </li>
+            <li data-artist="" data-title="The Winter" data-album="" data-info="" data-image="" data-duration="0">
+                <div class="amazingaudioplayer-source" data-src="https://docs.google.com/uc?export=download&id=0BwwFMv7UvHwSd1lQNXJ4R21FZDg" data-type="audio/mpeg" />
+            </li>
+            <li data-artist="" data-title="Fine Time Needed" data-album="" data-info="" data-image="" data-duration="0">
+                <div class="amazingaudioplayer-source" data-src="https://docs.google.com/uc?export=download&id=0BwwFMv7UvHwSRDJCR09heTR1aGc" data-type="audio/mpeg" />
+            </li>
+            <li data-artist="" data-title="Fine-Lines" data-album="" data-info="" data-image="" data-duration="0">
+                <div class="amazingaudioplayer-source" data-src="https://docs.google.com/uc?export=download&id=0BwwFMv7UvHwSWXBaa1BQODdWQVk" data-type="audio/mpeg" />
+            </li>
+        </ul>
+    </div>
+    <!-- End of body section HTML codes -->
+
+</div>
+</body>
+    ]]>
+  </Content>
+</Module>
