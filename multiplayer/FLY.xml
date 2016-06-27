@@ -8,10 +8,10 @@
     <title>Amazing HTML5 Audio Player, powered by http://amazingaudioplayer.com</title>
     
     <!-- Insert to your webpage before the </head> -->
-    <script src="https://github.com/fjamstudios/GitHub/blob/master/multiplayer/audioplayerengine/jquery.js"></script>
-    <script src="https://github.com/fjamstudios/GitHub/blob/master/multiplayer/audioplayerengine/amazingaudioplayer.js"></script>
-    <link rel="stylesheet" type="text/css" href="https://github.com/fjamstudios/GitHub/blob/master/multiplayer/audioplayerengine/initaudioplayer-1.css">
-    <script src="https://github.com/fjamstudios/GitHub/blob/master/multiplayer/audioplayerengine/initaudioplayer-1.js"></script>
+    <script src="https://raw.githubusercontent.com/fjamstudios/GitHub/master/multiplayer/audioplayerengine/jquery.jss"></script>
+    <script src="https://raw.githubusercontent.com/fjamstudios/GitHub/master/multiplayer/audioplayerengine/amazingaudioplayer.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/fjamstudios/GitHub/master/multiplayer/audioplayerengine/initaudioplayer-1.css">
+    <script src="https://raw.githubusercontent.com/fjamstudios/GitHub/master/multiplayer/audioplayerengine/initaudioplayer-1.js"></script>
     <!-- End of head section HTML codes -->
     
 </head>
