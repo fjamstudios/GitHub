@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+  <ModulePrefs title="Fine Lines Lyrics" />
+  <Content type="html">
+    <![CDATA[
+<center>    <FORM>
+<INPUT type="button" value="Fine Lines Lyrics" onClick="window.open('https://sites.google.com/site/fjampages/fine-lines','showlyrics','width=400,height=800')">
+</FORM></center>     
+    ]]>
+  </Content>
+</Module>
