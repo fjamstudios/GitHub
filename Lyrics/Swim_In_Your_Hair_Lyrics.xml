@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Module>
-  <ModulePrefs title="Forums" />
+  <ModulePrefs title="Swim In Your Hair Lyrics" />
   <Content type="html">
     <![CDATA[
 <center>    <FORM>
-<INPUT type="button" value="Lyrics" onClick="window.open('https://sites.google.com/site/fjampages/swim-in-your-hair','showlyrics','width=400,height=800')">
+<INPUT type="button" value="Swim In Your Hair Lyrics" onClick="window.open('https://sites.google.com/site/fjampages/swim-in-your-hair','showlyrics','width=400,height=800')">
 </FORM></center>     
     ]]>
   </Content>
