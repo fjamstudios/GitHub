@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Module>
-  <ModulePrefs title="Forums" />
+  <ModulePrefs title="Pull Of Torch Lyrics" />
   <Content type="html">
     <![CDATA[
 <center>    <FORM>
-<INPUT type="button" value="Lyrics" onClick="window.open('https://sites.google.com/site/fjampages/pull-of-torch','showlyrics','width=400,height=800')">
+<INPUT type="button" value="Pull Of Torch Lyrics" onClick="window.open('https://sites.google.com/site/fjampages/pull-of-torch','showlyrics','width=400,height=800')">
 </FORM></center>     
     ]]>
   </Content>
