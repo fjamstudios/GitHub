@@ -3,7 +3,7 @@
   <ModulePrefs title="Forums" />
   <Content type="html">
     <![CDATA[
-<script language="JavaScript" type="text/JavaScript">
+<center><script language="JavaScript" type="text/JavaScript">
 <!--
 function HDD_Menu(targetpage,selected){
 if (selected.options[selected.selectedIndex].value!=""){  eval(targetpage+".location='"+selected.options[selected.selectedIndex].value+"'");}}
@@ -50,7 +50,7 @@ if (selected.options[selected.selectedIndex].value!=""){  eval(targetpage+".loca
 <option value="https://sites.google.com/site/fjamstudiosmusicprojects/home/talent-profiles/mix-master">Mix/Master</option>
 <option value="https://sites.google.com/site/fjamstudiosmusicprojects/home/talent-profiles/orchestra-instruments">Orchestra Inst.</option>
 <option value="https://sites.google.com/site/fjamstudiosmusicprojects/home/talent-profiles/producer">Producer</option>
-<option value="https://sites.google.com/site/fjamstudiosmusicprojects/home/talent-profiles/singers">Singer</option></select>
+<option value="https://sites.google.com/site/fjamstudiosmusicprojects/home/talent-profiles/singers">Singer</option></select></center>
     ]]>
   </Content>
 </Module>
