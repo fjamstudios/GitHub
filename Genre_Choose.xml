@@ -11,7 +11,7 @@ if (selected.options[selected.selectedIndex].value!=""){  eval(targetpage+".loca
 </script><select name="Alt_Rock" onChange="HDD_Menu('parent',this)" style="color:#000000; background:#F1F345; font-weight:bold;" >
 <option value="" selected>Alt_Rock</option>
 <option value="https://sites.google.com/site/fjamstudiosmusicprojects/home/finished-tracks-jukebox/alt-rock">Alt Rock</option>
-<option value="https://sites.google.com/site/fjamstudiosmusicprojects/daw-specific-discussions">D.A.W. Specific Discussion</option>
+<option value="https://sites.google.com/site/fjamstudiosmusicprojects/home/finished-tracks-jukebox/gothrock">Goth Rock</option>
 <option value="https://sites.google.com/site/fjamstudiosmusicprojects/listening-rooms">Listening Rooms</option>
 <option value="https://sites.google.com/site/fjamstudiosmusicprojects/online-bands">Online Bands</option>
 <option value="https://sites.google.com/site/fjamstudiosmusicprojects/f-jam-news">Site News</option>
