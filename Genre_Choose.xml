@@ -29,24 +29,9 @@ if (selected.options[selected.selectedIndex].value!=""){  eval(targetpage+".loca
 function HDD_Menu(targetpage,selected){
 if (selected.options[selected.selectedIndex].value!=""){  eval(targetpage+".location='"+selected.options[selected.selectedIndex].value+"'");}}
 //-->
-</script><select name="Specific Talent" onChange="HDD_Menu('parent',this)" style="color:#000000; background:#F1F345; font-weight:bold;" >
-<option value="" selected>Specific Talent</option>
-<option value="https://sites.google.com/site/fjamstudiosmusicprojects/home/talent-profiles/acoustic-folk-inst">Ac. Folk Inst.</option>
-<option value="https://sites.google.com/site/fjamstudiosmusicprojects/home/talent-profiles/arrangement">Arrangement</option>
-<option value="https://sites.google.com/site/fjamstudiosmusicprojects/home/talent-profiles/bassist">Bass</option>
-<option value="https://sites.google.com/site/fjamstudiosmusicprojects/home/talent-profiles/composition">Composer</option>
-<option value="https://sites.google.com/site/fjamstudiosmusicprojects/home/talent-profiles/drums">Drums</option>
-<option value="https://sites.google.com/site/fjamstudiosmusicprojects/home/talent-profiles/editor-audio">Editor (Audio)</option>
-<option value="https://sites.google.com/site/fjamstudiosmusicprojects/home/talent-profiles/editor-video">Editor (Video)</option>
-<option value="https://sites.google.com/site/fjamstudiosmusicprojects/home/talent-profiles/guitar">Guitar</option>
-<option value="https://sites.google.com/site/fjamstudiosmusicprojects/home/talent-profiles/harmonica">Harmonica</option>
-<option value="https://sites.google.com/site/fjamstudiosmusicprojects/home/talent-profiles/horn">Horns</option>
-<option value="https://sites.google.com/site/fjamstudiosmusicprojects/home/talent-profiles/keys">Keys</option>
-<option value="https://sites.google.com/site/fjamstudiosmusicprojects/home/talent-profiles/lyrics">Lyrics</option>
-<option value="https://sites.google.com/site/fjamstudiosmusicprojects/home/talent-profiles/mix-master">Mix/Master</option>
-<option value="https://sites.google.com/site/fjamstudiosmusicprojects/home/talent-profiles/orchestra-instruments">Orchestra Inst.</option>
-<option value="https://sites.google.com/site/fjamstudiosmusicprojects/home/talent-profiles/producer">Producer</option>
-<option value="https://sites.google.com/site/fjamstudiosmusicprojects/home/talent-profiles/singers">Singer</option></select>
+</script><select name="Blues" onChange="HDD_Menu('parent',this)" style="color:#000000; background:#F1F345; font-weight:bold;" >
+<option value="" selected>Blues</option>
+<option value="https://sites.google.com/site/fjamstudiosmusicprojects/home/finished-tracks-jukebox/blues">Blues</option>
     ]]>
   </Content>
 </Module>
