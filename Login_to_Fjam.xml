@@ -5,7 +5,7 @@
     <![CDATA[
       <bgcolor="silver">
 <FORM>
-<center><INPUT type="button" value="?" title="Click this button!" onClick="window.open('https://plus.google.com/u/0/photos/photo/113702300984828916280/6341356270501508562?icm=false&authkey=CM-flpjYvvWEYg','mywindow','width=400,height=400')"></center>
+<center><INPUT type="button" value="How To Login" title="Click this button!" onClick="window.open('https://plus.google.com/u/0/photos/photo/113702300984828916280/6341356270501508562?icm=false&authkey=CM-flpjYvvWEYg','mywindow','width=400,height=400')"></center>
 </FORM> 
     ]]>
   </Content>
